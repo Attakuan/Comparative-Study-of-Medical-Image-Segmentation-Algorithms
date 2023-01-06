@@ -1,5 +1,4 @@
 # Comparative Study of Classical Medical Image Segmentation Algorithms
-# Foobar
 
 This file contains the implementation of the project assignment for class CS554 (Computer Vision), offered in Fall 2022, at Bilkent University. This assignment covers the implementation of the following four tasks:
 
